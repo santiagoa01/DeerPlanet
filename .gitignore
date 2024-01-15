@@ -91,6 +91,8 @@ crashlytics-build.properties
 .DS_Store
 .vscode
 
+#
+*.log
 ###
 # OS generated
 ###
