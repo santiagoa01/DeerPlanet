@@ -91,8 +91,9 @@ crashlytics-build.properties
 .DS_Store
 .vscode
 
-#ignore files of type .log
+#ignore files of type .log and .meta
 *.log
+*.meta
 ###
 # OS generated
 ###
